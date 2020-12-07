@@ -23,5 +23,5 @@ Name | Options
 ### Notes
 
 - Providing only a source and an output file will create a copy
-- Providing a `source-file-os-flag` would require also require a `new-file-os-flag`
+- Providing a `source-file-os-flag` would also require a `new-file-os-flag`
 - By default `byte-order-flag` is set to `-keep`
